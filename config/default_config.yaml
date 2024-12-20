@@ -1,0 +1,25 @@
+stations:
+  - latitude: 56.05
+    longitude: -112.05
+    variables: ["temperature", "u_wind", "v_wind"]
+
+  - latitude: 57.05
+    longitude: -111.05
+    variables: ["temperature", "u_wind", "v_wind"]
+
+  - latitude: 56.95
+    longitude: -111.25
+    variables: ["temperature", "u_wind", "v_wind"]
+
+  - latitude: 56.55
+    longitude: -111.15
+    variables: ["temperature", "u_wind", "v_wind"]
+
+  - latitude: 56.15
+    longitude: -110.95
+    variables: ["temperature", "u_wind", "v_wind"]
+
+  - latitude: 57.25
+    longitude: -111.65
+    variables: ["temperature", "u_wind", "v_wind"]
+   
